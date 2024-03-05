@@ -1,3 +1,4 @@
 # git-training
-this is my first project
-author shameel azhar
+This is my first Project Devops
+<br>
+Author Shameel Azhar
